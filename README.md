@@ -7,6 +7,8 @@
 - 👨‍🎓 Data Science undergraduate student
 - 🎯 Focused on statistical analysis, machine learning, and data visualization to develop strong analytical insights
 
+### 💻 Skills: 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/SVG/Power-BI.svg">
   <img align="center" alt="Excel" height="30" width="40" src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg">
