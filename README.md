@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi! I'm João Pineda 👋
 
-<!--
-**jpopineda/jpopineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This is my portfolio of Data Science and Analytics projects
 
-Here are some ideas to get you started:
+### 📝 About me: 
+- 👨‍💻 I’m currently working as a Data Analyst 
+- 👨‍🎓 Studying Data Science
+- 🎯 Focused on statistical analysis, machine learning, and data visualization to develop strong analytical insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/SVG/Power-BI.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg">
+</div>
